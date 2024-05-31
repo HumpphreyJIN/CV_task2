@@ -1,2 +1,3 @@
-# qizhong
-qizhong2
+在fasterrcnn.py上进行训练fasterrcnn，以及调整参数和测试
+在yolov3.py上进行训练yolov3，以及调整参数和测试
+在infer.py上进行单张图片的测试以及输出检测结果

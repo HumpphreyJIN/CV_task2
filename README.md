@@ -1,3 +1,3 @@
-在fasterrcnn.py上进行训练fasterrcnn，以及调整参数和测试
-在yolov3.py上进行训练yolov3，以及调整参数和测试
-在infer.py上进行单张图片的测试以及输出检测结果
+在fasterrcnn.py为fasterrcnn模型，在其上调整参数
+在yolov3.py为yolov3模型，在其上调整参数
+在infer.py上进行加载模型，权重，图片进行测试以及输出检测结果
